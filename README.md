@@ -89,10 +89,12 @@ The key idea is that hitters aren’t one population—different hitter types (C
 
 - **Core objective**
 
-  Estimate how bat speed and swing length change the probability of fouling off a two-strike pitch—and test whether those effects differ across Contact/Balanced/Power hitter archetypes (controlling for pitch location and movement).
-  The goal of this analysis is to explore how batter mechanics (bat speed and swing length), pitch characteristics (release speed and movement), and game context (inning, outs, and balls) influence the likelihood of fouling off 2-strike pitches. It’s a crucial topic for advancing our understanding of player performance and decision-making in high-pressure situations. Fouling off 2-strike pitches is a critical skill in baseball, as it enables the batter to extend at-bats, tire pitchers, and increase the chances of favorable outcomes and for pitchers, it helps to control the Zone and set up strikeouts. By identifying the factors that contribute to fouling off such pitches, teams can improve coaching strategies, player development, and game tactics.
-  
-  Furthermore, this study could serve as a foundation for building a survival mechanism model, which explores how batters sustain themselves in the game by fouling off multiple pitches with two strikes. Such a model could analyze the factors contributing to prolonged at-bats and provide insights into the physical and mental attributes of successful batters. This analysis is limited to the first aspect and the second part can be explored further.
+   - Estimate how bat speed and swing length change the probability of fouling off a two-strike pitch—and test whether those effects differ across Contact/Balanced/Power hitter archetypes (controlling for pitch location and movement).
+   - The goal of this analysis is to explore how batter mechanics (bat speed and swing length), pitch characteristics (release speed and movement), and game context (inning, outs, and balls) influence the likelihood of fouling off 2-strike pitches.
+   - It’s a crucial topic for advancing our understanding of player performance and decision-making in high-pressure situations. Fouling off 2-strike pitches is a critical skill in baseball, as it enables the batter to extend at-bats, tire pitchers, and increase the chances of favorable outcomes and for pitchers, it helps to control the Zone and set up strikeouts.
+   - By identifying the factors that contribute to fouling off such pitches, teams can improve coaching strategies, player development, and game tactics.
+   - Furthermore, this study could serve as a foundation for building a survival mechanism model, which explores how batters sustain themselves in the game by fouling off multiple pitches with two strikes.
+   - Such a model could analyze the factors contributing to prolonged at-bats and provide insights into the physical and mental attributes of successful batters. This analysis is limited to the first aspect and the second part can be explored further.
 
 - **Specific objectives**
 
